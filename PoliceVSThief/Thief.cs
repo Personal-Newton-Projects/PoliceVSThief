@@ -31,7 +31,7 @@ namespace PoliceVSThief
             return "";
         }
 
-        public override ConsoleColor PersonColor { get { return ConsoleColor.Red; } }
+        public override ConsoleColor IdentifierColor { get { return ConsoleColor.Red; } }
 
         public Thief()
         {

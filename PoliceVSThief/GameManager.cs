@@ -85,7 +85,7 @@ namespace PoliceVSThief
             x = person.X;
             y = person.Y;
             Console.SetCursorPosition(x, y);
-            Console.ForegroundColor = person.PersonColor;
+            Console.ForegroundColor = person.IdentifierColor;
             Console.Write(person.Identifier); // New position
             Console.ForegroundColor = ConsoleColor.Gray;
         }

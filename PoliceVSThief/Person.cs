@@ -43,7 +43,7 @@ namespace PoliceVSThief
         /// </summary>
         public char Identifier { get { return chIdentifier; } }
 
-        public abstract ConsoleColor PersonColor { get; }
+        public abstract ConsoleColor IdentifierColor { get; }
         
         public List<string> Inventory { get { return l_szInventory; } }
         /// <summary>

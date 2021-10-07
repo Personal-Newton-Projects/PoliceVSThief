@@ -1,24 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fedro\\source\\repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj": {}
+    "C:\\Users\\udeli\\Source\\Repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fedro\\source\\repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj": {
+    "C:\\Users\\udeli\\Source\\Repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fedro\\source\\repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj",
+        "projectUniqueName": "C:\\Users\\udeli\\Source\\Repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj",
         "projectName": "PoliceVSThief",
-        "projectPath": "C:\\Users\\fedro\\source\\repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj",
-        "packagesPath": "C:\\Users\\fedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fedro\\source\\repos\\PoliceVSThief\\PoliceVSThief\\obj\\",
+        "projectPath": "C:\\Users\\udeli\\Source\\Repos\\PoliceVSThief\\PoliceVSThief\\PoliceVSThief.csproj",
+        "packagesPath": "C:\\Users\\udeli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\udeli\\Source\\Repos\\PoliceVSThief\\PoliceVSThief\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\udeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.302\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
