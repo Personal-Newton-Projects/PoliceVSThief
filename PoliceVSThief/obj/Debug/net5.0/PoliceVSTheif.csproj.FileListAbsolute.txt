@@ -1,0 +1,16 @@
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\bin\Debug\net5.0\PoliceVSTheif.exe
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\bin\Debug\net5.0\PoliceVSTheif.deps.json
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\bin\Debug\net5.0\PoliceVSTheif.runtimeconfig.json
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\bin\Debug\net5.0\PoliceVSTheif.runtimeconfig.dev.json
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\bin\Debug\net5.0\PoliceVSTheif.dll
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\bin\Debug\net5.0\ref\PoliceVSTheif.dll
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\bin\Debug\net5.0\PoliceVSTheif.pdb
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.csproj.AssemblyReference.cache
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.AssemblyInfoInputs.cache
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.AssemblyInfo.cs
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.csproj.CoreCompileInputs.cache
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.dll
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\ref\PoliceVSTheif.dll
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.pdb
+C:\Users\fedro\source\repos\PoliceVSTheif\PoliceVSTheif\obj\Debug\net5.0\PoliceVSTheif.genruntimeconfig.cache

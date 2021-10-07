@@ -1,0 +1,16 @@
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\bin\Debug\net5.0\PoliceVSThief.exe
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\bin\Debug\net5.0\PoliceVSThief.deps.json
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\bin\Debug\net5.0\PoliceVSThief.runtimeconfig.json
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\bin\Debug\net5.0\PoliceVSThief.runtimeconfig.dev.json
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\bin\Debug\net5.0\PoliceVSThief.dll
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\bin\Debug\net5.0\ref\PoliceVSThief.dll
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\bin\Debug\net5.0\PoliceVSThief.pdb
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.csproj.AssemblyReference.cache
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.AssemblyInfoInputs.cache
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.AssemblyInfo.cs
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.csproj.CoreCompileInputs.cache
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.dll
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\ref\PoliceVSThief.dll
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.pdb
+C:\Users\fedro\source\repos\PoliceVSThief\PoliceVSThief\obj\Debug\net5.0\PoliceVSThief.genruntimeconfig.cache
