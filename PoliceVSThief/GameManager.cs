@@ -71,22 +71,18 @@ namespace PoliceVSThief
         }
 
         /// <summary>
-        /// Draws the Person and overwrites the previous step the Person took.
+        /// Draws or Undraws the Person passed.
         /// </summary>
         /// <param name="person">Person to draw. Using it's X and Y coordinates and Identifier to Draw the Person.</param>
-        static void DrawPerson(Person person)
+        /// <param name="draw">Whether to draw, or udraw</param>
+        static void DrawPerson(Person person, bool draw)
         {
             int x = person.X;
             int y = person.Y;
             Console.SetCursorPosition(x, y);
-            Console.Write(' '); // Remove previous position
-
-            person.MoveInDirection(); // (x++ or y++) or (x++ and y++)
-            x = person.X;
-            y = person.Y;
-            Console.SetCursorPosition(x, y);
             Console.ForegroundColor = person.IdentifierColor;
-            Console.Write(person.Identifier); // New position
+            if (draw == false) Console.Write(' '); // Remove previous position
+            else Console.Write(person.Identifier); // New position
             Console.ForegroundColor = ConsoleColor.Gray;
         }
 
