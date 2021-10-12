@@ -93,8 +93,10 @@ namespace PoliceVSThief
         {
             for (int currentPerson = 0; currentPerson < people.Count; currentPerson++)
             {
-                DrawPerson(people[currentPerson]);
-                ComparePosition(people[currentPerson]);
+                DrawPerson(people[currentPerson], false);   // Undraw person
+                people[currentPerson].MoveInDirection();    // Move person
+                DrawPerson(people[currentPerson], true);    // Draw person at new position
+                ComparePosition(people[currentPerson]);     // Compare person's position with everyone else.
             }
         }
 
