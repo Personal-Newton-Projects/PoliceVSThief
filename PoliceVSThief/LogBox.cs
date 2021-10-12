@@ -10,7 +10,9 @@ namespace PoliceVSThief
     {
         // Data Members
         const int maxLog = 5;
-        static int LogStartingLine = GameManager.GameWorldMaxHeight + maxLog;
+        public static int LogStartingLine = GameManager.GameWorldMaxHeight + maxLog;
+        public static int PeopleCountLogLine = 10;
+
         static int currentLine = 1;
 
         /// <summary>
@@ -19,7 +21,7 @@ namespace PoliceVSThief
         /// <param name="text">The text to print out.</param>
         public static void Log(string text)
         {
-            ClearLine();
+            ClearLine(currentLine);
             Console.WriteLine(text + string.Empty);
             if (currentLine > maxLog) currentLine = 1; // Resets the position of the log to the start.
             else currentLine++;
@@ -28,11 +30,11 @@ namespace PoliceVSThief
         /// <summary>
         /// Allows for full overwriting of a line. Replaces a line with blank text.
         /// </summary>
-        static void ClearLine()
+        static void ClearLine(int currentline)
         {
-            Console.SetCursorPosition(0, LogStartingLine + currentLine);
+            Console.SetCursorPosition(0, LogStartingLine + currentline);
             Console.Write(new string(' ', Console.WindowWidth));
-            Console.SetCursorPosition(0, LogStartingLine + currentLine);
+            Console.SetCursorPosition(0, LogStartingLine + currentline);
         }
 
         /// <summary>
@@ -51,7 +53,7 @@ namespace PoliceVSThief
                 if (GameManager.people[i] is Thief) thiefAmount++;
                 if (GameManager.people[i] is Police) policeAmount++;
 
-                Console.SetCursorPosition(0, LogStartingLine + 10);
+                ClearLine(PeopleCountLogLine);
                 Console.ForegroundColor = ConsoleColor.DarkGray;
                 Console.Write($"Citizen amount: {citizenAmount}, Thief amount: {thiefAmount}, Police amount: {policeAmount}");
                 Console.ForegroundColor = ConsoleColor.Gray;
