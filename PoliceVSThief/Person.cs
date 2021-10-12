@@ -141,10 +141,9 @@ namespace PoliceVSThief
         /// <summary>
         /// Randomize the direction of the Person
         /// </summary>
-        /// <returns>Enum Direction 1-8</returns>
-        public int RandomizeDirection()
+        public void RandomizeDirection()
         {
-            return nCurrentDirection = random.Next(1, 9);
+            nCurrentDirection = random.Next(1, 9);
         }
 
         /// <summary>
